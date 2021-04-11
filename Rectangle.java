@@ -1,3 +1,8 @@
+/* Nam Phu Nguyen (Logan)
+   CS141 
+   Programing Assignment
+ */   
+   
 public class Rectangle{
    private double width; 
    private double height;
